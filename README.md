@@ -1,5 +1,5 @@
 # UniFind
-A modern Lost &amp; Found Network for University campuses — built with HTML, CSS, JS, and MySQL. Features reporting, searching, claiming items, and admin control.
+A modern Lost &amp; Found Network for University campuses — built with HTML, CSS, JS, Node.js, Express and MySQL. Features reporting, searching, claiming items, and admin control.
 
 # 🎓 UniFind – Lost & Found Network for Campus
 
@@ -19,7 +19,7 @@ UniFind is a smart, responsive web application built to streamline the process o
 ## 🛠️ Tech Stack
 
 - Frontend: HTML5, CSS3, JavaScript
-- Backend: Node.js / Express (optional)
+- Backend: Node.js / Express 
 - Database: MySQL
 - Tools: VS Code, MySQL Workbench.
 
