@@ -19,7 +19,7 @@ UniFind is a smart, responsive web application built to streamline the process o
 ## 🛠️ Tech Stack
 
 - Frontend: HTML5, CSS3, JavaScript
-- Backend: Node.js / Express 
+- Backend: Node.js, Express 
 - Database: MySQL
 - Tools: VS Code, MySQL Workbench.
 
